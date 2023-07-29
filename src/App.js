@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>Testing github pages and Github actions</h1>
+        <h1>Testing github pages and Github actions </h1>
       </header>
     </div>
   );
